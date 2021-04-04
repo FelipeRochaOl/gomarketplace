@@ -46,7 +46,9 @@
         "ts": "never",
         "tsx": "never"
       }
-    ]
+    ],
+    "no-shadow": "off",
+    "array-callback-return": "off"
   },
   "settings": {
     "import/resolver": {
